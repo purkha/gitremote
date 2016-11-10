@@ -1,0 +1,56 @@
+body {
+	margin:0 auto;
+	background-color: lightgray;
+	font-family: sans-serif;
+}
+
+/*common styles/rules divs*/
+
+div {
+	background-color: orange;
+	width: 300px;
+	text-align: center;
+	padding-bottom: 10px;
+	float: left;
+	margin: 25px 10px 10px 0;
+	color: white
+	
+}
+
+/*common styles/rules for headings*/
+
+h1 {
+	margin-top: 0px;
+}
+
+/*text colors for headings*/
+h1#tomato {
+	color: tomato;
+	background-color: blue;
+}
+
+h1#lightblue {
+	color: lightblue;
+	background-color: orange;
+}
+
+h1#pink {
+	background-color: tomato;
+	color: pink;
+}
+
+/*rules for text*/
+
+div#tomato {
+	background-color: tomato;
+	color: ;
+}
+
+div#lightblue {
+	background-color: lightblue;
+}
+
+div#pink {
+	background-color: pink;
+	margin-right: 0px;
+}
